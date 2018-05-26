@@ -1,0 +1,10 @@
+body{
+    background: aliceblue url("images/background.png");
+}
+.navbar {
+    border-radius: 0;
+}
+.navbar-brand{
+    font-size: x-large;
+    font-family: 'Satisfy','cursive';
+}
